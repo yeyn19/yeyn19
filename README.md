@@ -15,4 +15,3 @@ yeyn19/yeyn19 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://img.shields.io/badge/曹姝廷-我喜欢你-orange">
